@@ -9,3 +9,4 @@
 ## 软件
 - [Excel2RPY](https://github.com/HaruhiFanClub/Excel2RpyScript)
 - [DesignCode](https://github.com/Haruhiyuki/DesignCode)
+- [webutau](https://github.com/Marigold1122/WebUtau)
