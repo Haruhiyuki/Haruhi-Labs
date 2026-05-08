@@ -12,6 +12,7 @@
 - [DesignCode](https://github.com/Haruhiyuki/DesignCode)
 - [webutau](https://github.com/Marigold1122/WebUtau)
 - [Galcode_island](https://github.com/sjyinzju/Galcode_island)
+- [HaruhiNote](https://github.com/Haruhiyuki/HaruhiNote)
 
 ## 游戏 / 互动作品
 - [电研社防御战 The-Computer-Club-Defense-Battle](https://github.com/3c6e9x/The-Computer-Club-Defense-Battle)
